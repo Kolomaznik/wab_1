@@ -2,4 +2,4 @@
 Webove aplikacce: backend (1 skupina)
 
 ## Vytvožení simple service
-- Vztvořeni pracovni testovaci service.
+- Vytvořeni pracovni testovaci service.
